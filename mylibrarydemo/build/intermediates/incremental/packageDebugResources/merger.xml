@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="/home/sellnews/Android/ASProjects/3.0/LibraryDemo/mylibrarydemo/src/main/res"/><source path="/home/sellnews/Android/ASProjects/3.0/LibraryDemo/mylibrarydemo/build/generated/res/rs/debug"/><source path="/home/sellnews/Android/ASProjects/3.0/LibraryDemo/mylibrarydemo/build/generated/res/resValues/debug"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/home/sellnews/Android/ASProjects/3.0/LibraryDemo/mylibrarydemo/src/main/res"><file name="layout_recycler_emptyview" path="/home/sellnews/Android/ASProjects/3.0/LibraryDemo/mylibrarydemo/src/main/res/layout/layout_recycler_emptyview.xml" qualifiers="" type="layout"/><file path="/home/sellnews/Android/ASProjects/3.0/LibraryDemo/mylibrarydemo/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">My LibraryDemo</string></file><file path="/home/sellnews/Android/ASProjects/3.0/LibraryDemo/mylibrarydemo/src/main/res/values/attr.xml" qualifiers=""><declare-styleable name="CustomTextView">
+        <attr name="custom_font"/>
+        <attr format="dimension" name="line_spacing"/>
+        <attr format="dimension" name="letter_spacing"/>
+        <attr format="dimension" name="line_height"/>
+        <attr format="boolean" name="strike"/>
+    </declare-styleable><declare-styleable name="CustomEditText">
+        <attr name="custom_font"/>
+        <attr format="dimension" name="edt_txt_line_spacing"/>
+        <attr format="dimension" name="edt_txt_letter_spacing"/>
+        <attr format="dimension" name="edt_txt_line_height"/>
+    </declare-styleable><declare-styleable name="CustomButton">
+        <attr name="custom_font"/>
+        <attr format="dimension" name="btn_line_spacing"/>
+        <attr format="dimension" name="btn_letter_spacing"/>
+        <attr format="dimension" name="btn_line_height"/>
+    </declare-styleable><attr name="custom_font">
+        <enum name="avenir_black" value="1"/>
+        <enum name="avenir_book" value="2"/>
+        <enum name="avenir_heavy" value="3"/>
+        <enum name="avenir_light" value="4"/>
+        <enum name="avenir_medium" value="5"/>
+    </attr><declare-styleable name="CustomRecyclerView">
+        <attr format="integer" name="gird_span"/>
+        <attr name="list_type"/>
+        <attr name="list_orientation"/>
+    </declare-styleable><attr name="list_type">
+        <enum name="list" value="0"/>
+        <enum name="grid" value="1"/>
+        <enum name="staggered" value="2"/>
+    </attr><attr name="list_orientation">
+        <enum name="vertical" value="0"/>
+        <enum name="horizontal" value="1"/>
+    </attr></file></source><source path="/home/sellnews/Android/ASProjects/3.0/LibraryDemo/mylibrarydemo/build/generated/res/rs/debug"/><source path="/home/sellnews/Android/ASProjects/3.0/LibraryDemo/mylibrarydemo/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="/home/sellnews/Android/ASProjects/3.0/LibraryDemo/mylibrarydemo/src/debug/res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/home/sellnews/Android/ASProjects/3.0/LibraryDemo/mylibrarydemo/src/debug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="CustomRecyclerView"><attr format="integer" name="gird_span"/><attr name="list_type"/><attr name="list_orientation"/></declare-styleable><declare-styleable name="CustomTextView"><attr name="custom_font"/><attr format="dimension" name="line_spacing"/><attr format="dimension" name="letter_spacing"/><attr format="dimension" name="line_height"/><attr format="boolean" name="strike"/></declare-styleable><declare-styleable name="CustomEditText"><attr name="custom_font"/><attr format="dimension" name="edt_txt_line_spacing"/><attr format="dimension" name="edt_txt_letter_spacing"/><attr format="dimension" name="edt_txt_line_height"/></declare-styleable><declare-styleable name="CustomButton"><attr name="custom_font"/><attr format="dimension" name="btn_line_spacing"/><attr format="dimension" name="btn_letter_spacing"/><attr format="dimension" name="btn_line_height"/></declare-styleable></configuration></mergedItems></merger>

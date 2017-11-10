@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/sellnews/Android/ASProjects/3.0/LibraryDemo/mylibrarydemo/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/sellnews/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/270413d2dd6728a66074852a05ea27ae/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/sellnews/Android/ASProjects/3.0/LibraryDemo/mylibrarydemo/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/sellnews/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/270413d2dd6728a66074852a05ea27ae/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/sellnews/Android/ASProjects/3.0/LibraryDemo/mylibrarydemo/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/sellnews/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/270413d2dd6728a66074852a05ea27ae/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/sellnews/Android/ASProjects/3.0/LibraryDemo/mylibrarydemo/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/sellnews/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/270413d2dd6728a66074852a05ea27ae/res/layout-v21/notification_action.xml"
+    }
+]

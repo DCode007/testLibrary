@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/sellnews/Android/ASProjects/3.0/LibraryDemo/mylibrarydemo/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/sellnews/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc9c25e6e72b4c6441c522f28cf9989c/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/sellnews/Android/ASProjects/3.0/LibraryDemo/mylibrarydemo/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/sellnews/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc9c25e6e72b4c6441c522f28cf9989c/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/sellnews/Android/ASProjects/3.0/LibraryDemo/mylibrarydemo/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/home/sellnews/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/270413d2dd6728a66074852a05ea27ae/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/sellnews/Android/ASProjects/3.0/LibraryDemo/mylibrarydemo/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/sellnews/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc9c25e6e72b4c6441c522f28cf9989c/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]
