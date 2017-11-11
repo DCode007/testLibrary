@@ -1,1 +1,2 @@
 include ':mylibrarydemo'
+rootProject.name = 'mylibrarydemo'

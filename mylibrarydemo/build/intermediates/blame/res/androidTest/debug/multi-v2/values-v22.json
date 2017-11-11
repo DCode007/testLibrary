@@ -4,7 +4,7 @@
             "outputFile": "/home/sellnews/Android/ASProjects/3.0/LibraryDemo/mylibrarydemo/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v22/values-v22.xml",
             "map": [
                 {
-                    "source": "/home/sellnews/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e1977080ee502771f6bcc98f97da0361/res/values-v22/values-v22.xml",
+                    "source": "/home/sellnews/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/808621367d7b37a881bf94ed02baefcb/res/values-v22/values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",
